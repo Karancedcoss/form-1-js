@@ -1,0 +1,32 @@
+
+#main form div label
+{
+    margin: auto;
+    padding: 6px 10px;
+    font-size: larger;
+}
+#main
+{
+    
+    text-align: center;
+}
+#main div
+{
+    /* border: 2px solid yellow; */
+    padding: 1%;
+    margin: 1%;
+}
+
+
+#check
+{
+    padding: 8px 10px;
+    width: 15%;
+}
+#footer
+{
+    /* width: auto; */
+    text-align: center;
+    overflow: hidden;
+    margin: auto;
+}
